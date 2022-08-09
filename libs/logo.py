@@ -16,8 +16,10 @@ youtube_urls = [
     "Github => https://github.com/MrSpy00/",
     "Project => https://github.com/MrSpy00?tab=repositories ",
     "Please don't forget to star :)",
+    "It's Beta Version...",
     "Projeler => https://github.com/MrSpy00?tab=repositories ",
     "Yıldız atmayı unutmayın :)"
+    "Beta sürümüdür..."
 
     ]
 
