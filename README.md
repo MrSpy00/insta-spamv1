@@ -3,6 +3,8 @@
 Made by hack6m ~ ~ ~ https://github.com/MrSpy00/
 
 This tool has been tested on operating systems such as parrot os, kali linux and ubuntu. It works very well.
+
+
 Bu araç, parrot os, kali linux ve ubuntu gibi işletim sistemlerinde denenmiştir. Çok iyi bir şekilde çalışmaktadır.
 
 Installation / Kurulum
