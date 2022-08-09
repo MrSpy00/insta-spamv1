@@ -18,7 +18,7 @@ youtube_urls = [
     "Please don't forget to star :)",
     "It's Beta Version...",
     "Projeler => https://github.com/MrSpy00?tab=repositories ",
-    "Yıldız atmayı unutmayın :)"
+    "Yıldız atmayı unutmayın :)",
     "Beta sürümüdür..."
 
     ]
